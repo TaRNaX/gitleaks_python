@@ -7,3 +7,4 @@ Usage:
    - example with absolute path to git repo: `python3 gitleaks_linux_amd64.py /home/ububtu/work/project'`
 3) Python script will install Gitleaks in `$HOME/.local/bin` if not installed (sudo password required)
 4) Script will check for correct path to git repository
+5) Script will upload results in `logs.json` in current directory
